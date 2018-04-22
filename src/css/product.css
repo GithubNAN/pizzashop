@@ -1,0 +1,52 @@
+.product-img img {
+    /* float: left !important; */
+    /* width: 50px !important; */
+    position: relative;
+}
+
+.product-form {
+    margin-top: 20px;
+}
+
+.product-form input, .product-form select, .product-form button{
+    border: 0;
+    padding: .5em 1em;
+}
+
+.product-form input, .product-form select {
+    display: inline-block;
+}
+
+.product-form label {
+    display: block;
+}
+.product-form button {
+    display: inline;
+    background-color: mediumaquamarine
+}
+
+.product-form input[type="submit"] {
+    display: block;
+    margin-top: 20px;
+    background-color: mediumaquamarine
+}
+
+.product img {
+    width: 50%;
+    min-height: 200px;
+    box-sizing: border-box;
+}
+.product h2 {
+    margin-top: 20px;
+}
+
+
+
+.product aside {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    top: 50%;
+    position: relative; 
+}
+

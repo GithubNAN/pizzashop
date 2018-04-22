@@ -1,0 +1,7 @@
+ID|Title|Description|Options|Price|image
+P001|Pepperoni|"Nothing says pizza quite like thin slices of pepperoni, evenly shuffled across a spread of tomato sauce under delicious 100% real cheese surrounded by a traditional garlic buttery crust."|"delivery, take away"|11.99|"./img/pepperoni.png"
+P002|Supreme|"For those who like to step things up to the max, our Surpreme is just for you. Unlimited amounts of savory pepperoni, beef, sausage and just the right amount red onions, green peppers, mushrooms…"|"dellivery, take away"|13.49|"./img/supreme.png"
+P003|Veggie|"It’s just that our Meat Eater has got a lot going for it – 100% real cheese, pepperoni, ham, beef, sausage. It’s a meat lover’s dream come true."|"dellivery, take away"|14.99|"./img/veggie.png"
+P004|"Meat Eater"|"Our Veggie recipe is perfect for those who love all the colors of the vegetable spectrum – tomato sauce, 100% real cheese, red onions, green peppers, mushrooms and black olives."|"dellivery, take away"|9.99|"./img/meateater.png"
+P005|Cheese|"100% real cheese, traditional garlic buttery crust, and… well, that’s it. Ah, it’s so liberating!"|"dellivery, take away"|13.99|"./img/cheese.png"
+P006|Beef|"When cheese needs a little extra to come in and do the heavy lifting, bring on the beef! Pizza Workshop beef is a perfect meaty ingredient cooked with tomato sauce and 100% real cheese surrounded by a garlic butter-smothered crispy crust."|"dellivery, take away"|15.99|"./img/beef.png"

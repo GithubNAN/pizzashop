@@ -1,0 +1,82 @@
+/* Font import */
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Pangolin');
+
+/* Other css components import */
+@import url('./header.css');
+@import url('./navbar.css');
+@import url('./carousel.css');
+@import url('./feature.css');
+@import url('./footer.css');
+
+/* For Products Page */
+@import url('./products.css');
+/* For Product page */
+@import url('./product.css');
+/* For Login page */
+@import url('./login.css');
+
+:root {
+  /* font selection */
+  --font-default-size: 18px;
+  --font-head: 'Kaushan Script', cursive;
+  --font-main: 'Pangolin', cursive;
+  /* color selection */
+  --background-color-light: #f4f4f4;
+  --background-color-dark: #a4a4a4;
+  --font-color-dark: #222;
+  --font-color-light: #f4f4f4;
+  --footer-color: #24524a;
+  --pizza-periperi: #f35d06;
+  --pizza-black: #000;
+  --pizza-olive: rgb(119, 157, 20);
+  --pizza-dough: rgb(253, 220, 130);
+  --pizza-tomato: red;
+}
+
+/* Universal configuation */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: var(--font-default-size);
+  line-height: 1.7;
+  color: var(--font-color-dark);
+  background-color: var(--background-color-light);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  background-image: url('../img/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: var(--font-head);
+  font-size: 2em;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  font-family: var(--font-main);
+  font-size: 17px;
+}
+
+/* Section Configuration */
+.section {
+  min-height: 400px;
+}
+
+/* main body configuation */
+main {
+  padding: 40px 0;
+}
+
+@media (max-width: 650px) {
+  .feature {
+    flex-wrap: wrap;
+  }
+}

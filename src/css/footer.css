@@ -1,0 +1,13 @@
+.footer {
+    width: 100%;
+    min-height: 200px;
+    text-align: center;
+    color: var(--pizza-dough);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../img/image1.jpeg');
+    background-position: bottom;
+    background-size: cover; 
+    background-attachment: fixed;
+}
