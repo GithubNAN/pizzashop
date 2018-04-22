@@ -1,1 +1,2 @@
-# pizzashop a commerical pizza sales template
+# pizzashop
+A online pizza order template for showing purpose
